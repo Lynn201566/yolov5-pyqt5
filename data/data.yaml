@@ -1,0 +1,5 @@
+train: E:/long/yolov5-pyqt5-1.1/VOCdevkit/images/train/
+val: E:/long/yolov5-pyqt5-1.1/VOCdevkit/images/val/
+
+nc: 2  # number of classes
+names: ["point one","point two"]
