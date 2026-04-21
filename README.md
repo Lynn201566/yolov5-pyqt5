@@ -3,7 +3,7 @@
 This repository contains the implementation of the adaptive concentrate interception system described in the paper:
 
 > **Investigation of adaptive interception systems for concentrate in spiral concentrators**  
-> Huizhong LIU, Fulong DENG,QIhua ZHOU, Yao LONG, Xixi LIU, Ruoyun ZHANG, Jian NING
+> Huizhong LIU, Fulong DENG,QIhua ZOU, Yao LONG, Xixi LIU, Ruoyun ZHANG, Jian NING
 
 The system uses an enhanced YOLOv5 deep learning model (YOLOv5‑CASM) to detect the concentrate split point in real time and automatically adjusts a servo‑driven splitter via PLC control.
 
@@ -75,7 +75,7 @@ If you use this code in your research, please cite the original paper:
 ```bibtex
 @article{
   title={Investigation of adaptive interception systems for concentrate in spiral concentrators},
-  author={Liu, Huizhong and Deng, Fulong and Zhou, Qihua and Long, Yao and Liu, Xixi and Zhang, Ruoyun and Ning, Jian}
+  author={Liu, Huizhong and Deng, Fulong and Zou, Qihua and Long, Yao and Liu, Xixi and Zhang, Ruoyun and Ning, Jian}
 }
 ```
 
